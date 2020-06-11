@@ -127,7 +127,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Demo1005
+CMAKE_PROJECT_NAME:STATIC=PAT1005
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=D:/work_space/MinGw/bin/ranlib.exe
@@ -214,6 +214,12 @@ Demo1005_BINARY_DIR:STATIC=D:/work_space/c_work/PAT1005/cmake-build-debug
 
 //Value Computed by CMake
 Demo1005_SOURCE_DIR:STATIC=D:/work_space/c_work/PAT1005
+
+//Value Computed by CMake
+PAT1005_BINARY_DIR:STATIC=D:/work_space/c_work/PAT1005/cmake-build-debug
+
+//Value Computed by CMake
+PAT1005_SOURCE_DIR:STATIC=D:/work_space/c_work/PAT1005
 
 
 ########################
